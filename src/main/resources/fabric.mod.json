@@ -19,6 +19,6 @@
     "dcch.mixins.json"
   ],
   "depends": {
-    "minecraft": "*"
+    "minecraft": ">=1.21.1"
   }
 }
